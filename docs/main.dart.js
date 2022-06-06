@@ -70567,7 +70567,7 @@ q=A.a1d(l,l,l,l,l,l,l,l,r.f,l,new A.bJ(A.hA(8),B.o),l,l,l,l)
 q=s.Lk(n,new A.n8(p,0,l),k.KP(r),new A.nb(B.bK,l,l,l,0,l,new A.bJ(o,B.o)),r,new A.no(p,l,l,l,l),q,B.hO,B.u7,r.CW,k.Ox(r),!0)
 k=k.f.a.b
 p=$.avk()
-return new A.lM(p.a,A.b(p.b,"routerDelegate"),"Flutter Demo",m,q,k,!1,new A.UT(l),l)},
+return new A.lM(p.a,A.b(p.b,"routerDelegate"),"Nautical",m,q,k,!1,new A.UT(l),l)},
 $S:473}
 A.UT.prototype={
 gpT(){return A.cL([B.bk],t.G)}}

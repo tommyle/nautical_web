@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "c3318ffe61c336ad1ce56fa6588f789b",
-"index.html": "c35ad0ca2256b156cb21fccd216f6731",
-"/": "c35ad0ca2256b156cb21fccd216f6731",
-"main.dart.js": "c7d7286fa22ec370d447b154d7d1270f",
+"index.html": "2e1a5f71a1946f02db55dd2d8b36967d",
+"/": "2e1a5f71a1946f02db55dd2d8b36967d",
+"main.dart.js": "17e17e7b254c6d4b259c29c224216b14",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -117,7 +118,11 @@ const RESOURCES = {
 "assets/assets/images/collections/cheebs/cheebs_10.png": "c21d76e369dd8c11cb110c7eff660f1b",
 "assets/assets/images/collections/cheebs/cheebs_4.png": "efc0c6bdc51700977282caa49707d468",
 "assets/assets/images/collections/cheebs/cheebs_11.png": "8712863d5ed45cae8e7712ea76833140",
-"assets/assets/images/collections/cheebs/cheebs_5.png": "c43a6a21c1a57ef262b9653e6349a726"
+"assets/assets/images/collections/cheebs/cheebs_5.png": "c43a6a21c1a57ef262b9653e6349a726",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
